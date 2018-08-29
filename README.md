@@ -1,2 +1,2 @@
 # AlbumView
-Populating song details and album art on grid layout.
+Show song details and album art on grid layout.
