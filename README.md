@@ -1,2 +1,2 @@
 # AlbumView
-Show song details and album art on grid layout.
+A single activity app to show song details and album art in grid view.
